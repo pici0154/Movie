@@ -37,6 +37,7 @@ public class Main {
                     break;
                 case 3: // get all movies
                     break;
+
             }
         }
 
